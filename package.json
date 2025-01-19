@@ -1,0 +1,21 @@
+{
+  "name": "contributing-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "discord.js": "^14.17.3",
+    "dotenv": "^16.4.7",
+    "mysql2": "^3.12.0",
+    "node-fetch": "^3.3.2",
+    "openai": "^4.77.0",
+    "punycode": "^2.3.1"
+  }
+}
